@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/johnmark.contreras.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnmark contreras" height="30" width="40" /></a>
-<a href="https://instagram.com/jcntrrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jcntrrs" height="30" width="40" /></a>
+<a href="https://instagram.com/j_cntrrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jcntrrs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
