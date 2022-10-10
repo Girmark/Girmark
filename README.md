@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Mark Contreras</h1>
 <h3 align="center">A passionate frontend developer from The Philippines</h3>
-<img align="right" alt-"coding" width="400px" src="https://dribbble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media"
+<img align="right" alt-"coding" width="400px" height="350px" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girmark&label=Profile%20views&color=0e75b6&style=flat" alt="girmark" /> </p>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/johnmark contreras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnmark contreras" height="30" width="40" /></a>
+<a href="https://www.facebook.com/johnmark.contreras.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnmark contreras" height="30" width="40" /></a>
 <a href="https://instagram.com/jcntrrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jcntrrs" height="30" width="40" /></a>
 </p>
 
